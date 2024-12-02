@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simwbwlp
-- 👀 I’m interested in ETL, C#, .net, Javascript, Powershell, Git
-- 🌱 I’m currently learning C#, .net, Javascript
+- 👀 I’m interested in ETL, SQL, Powershell, Git, Python
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
